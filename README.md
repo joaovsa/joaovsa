@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/joaovsa" target="blank"><img src="https://img.shields.io/twitter/follow/joaovsa?logo=twitter&style=for-the-badge" alt="joaovsa" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Lambda and getting deeper with Next.js**
+- 🌱 I’m currently learning **AWS Lambda and getting deeper with Nest.js**
 
 - 👨‍💻 All of my projects are available at my github
 
 - 📝 I regularly write articles on [my Medium Profile](https://medium.com/@joovitordes)
 
-- 💬 Ask me about **Next.js, Flutter, .Net and Python**
+- 💬 Ask me about **Next.js, Nest.js, React and Typescript**
 
 - 📫 How to reach me **jvsms13@gmail.com**
 
